@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ActorComponentTimelines",
+	"Description": "timelines usable in actor components",
+	"Category": "Actor Components",
+	"CreatedBy": "UniGC",
+	"CreatedByURL": "https://www.unigc.co.uk",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.7.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true
+}
