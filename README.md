@@ -1,5 +1,3 @@
-# Componentless timelines
-Timelines fully rewritten as macros rather than components, giving them the ability to be finally usable within actor components!!
 # Why would you use this over a regular timeline?
 - usable within actor components
 - doesnt require ticking each frame
